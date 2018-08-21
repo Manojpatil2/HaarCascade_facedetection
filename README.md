@@ -1,5 +1,5 @@
 # HaarCascade_facedetection
-# Training my own haarcascade file
+# Training haarcascade file to detect my face
     mkdir data 
     mkdir info
     1.opencv_createsamples -img typeimagename.jpg -bg bg.txt -info info/info.txt -pngoutput info -maxxangle 0.5 -maxyangle 0.5      -   maxzangle 0.5 -num 1900 
